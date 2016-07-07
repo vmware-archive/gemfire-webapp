@@ -1,0 +1,296 @@
+body {
+  background-color: #F2F2F2;
+  font-family: 'Istok Web', sans-serif;
+  font-size: 16px;
+  color: #6c737b;
+}
+
+header {
+  height: 50px;
+  width: 100%;
+  background-color: #203243;
+  padding-top: 14px;
+}
+
+.container {
+  max-width: 740px;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.list-unstyled {
+  list-style-type: none;
+}
+
+.badge {
+  background-color: #5486D1;
+}
+
+.panel-group .panel-heading {
+  color: #333;
+  background-color: #f5f5f5;
+  border-color: #ddd;
+  border-bottom: 1px solid #ddd;
+  transition: all .3s ease;
+}
+
+a .panel-heading:hover {
+  background-color: #fbfbfb;
+}
+
+
+p {
+  margin-bottom: 0;
+}
+
+.em-high {
+  font-weight: 700;
+}
+
+.small-txt {
+  font-size: 14px;
+}
+
+.big-txt {
+  font-size: 24px;
+}
+
+.em-alt {
+  font-style: italic;
+}
+
+
+.night-1 {
+  color: #667d94;
+}
+
+.night-2 {
+  color: #c8dce8;
+}
+
+.night-3 {
+  color: #ffffff;
+}
+
+.day-1 {
+  color: #6c737b;
+}
+
+.day-2 {
+  color: #979ea6;
+}
+
+.day-3 {
+  color: #9cb2c0;
+}
+
+
+.ptn, .pvn, .pan {
+  padding-top: 0px !important;
+}
+
+.pts, .pvs, .pas {
+  padding-top: 5px !important;
+}
+
+.ptm, .pvm, .pam {
+  padding-top: 10px !important;
+}
+
+.ptl, .pvl, .pal {
+  padding-top: 20px !important;
+}
+
+.ptml, .pvml, .paml {
+  padding-top: 15px !important;
+}
+
+.ptxl, .pvxl, .paxl {
+  padding-top: 30px !important;
+}
+
+.prn, .phn, .pan {
+  padding-right: 0px !important;
+}
+
+.prs, .phs, .pas {
+  padding-right: 5px !important;
+}
+
+.prm, .phm, .pam {
+  padding-right: 10px !important;
+}
+
+.prml, .phml, .paml {
+  padding-right: 15px !important;
+}
+
+.prl, .phl, .pal {
+  padding-right: 20px !important;
+}
+
+.prxl, .phxl, .paxl {
+  padding-right: 30px !important;
+}
+
+.pbn, .pvn, .pan {
+  padding-bottom: 0px !important;
+}
+
+.pbs, .pvs, .pas {
+  padding-bottom: 5px !important;
+}
+
+.pbm, .pvm, .pam {
+  padding-bottom: 10px !important;
+}
+
+.pbml, .pvml, .paml {
+  padding-bottom: 15px !important;
+}
+
+.pbl, .pvl, .pal {
+  padding-bottom: 20px !important;
+}
+
+.pbxl, .pvxl, .paxl {
+  padding-bottom: 30px !important;
+}
+
+.pln, .phn, .pan {
+  padding-left: 0px !important;
+}
+
+.pls, .phs, .pas {
+  padding-left: 5px !important;
+}
+
+.plsm {
+  padding-left: 7px !important;
+}
+
+.plm, .phm, .pam {
+  padding-left: 10px !important;
+}
+
+.plml, .phml, .paml {
+  padding-left: 15px !important;
+}
+
+.pll, .phl, .pal {
+  padding-left: 20px !important;
+}
+
+.plxl, .phxl, .paxl {
+  padding-left: 30px !important;
+}
+
+.mtn, .mvn, .man {
+  margin-top: 0px !important;
+}
+
+.mts, .mvs, .mas {
+  margin-top: 5px !important;
+}
+
+.mtm, .mvm, .mam {
+  margin-top: 10px !important;
+}
+
+.mtml, .mvml, .maml {
+  margin-top: 15px !important;
+}
+
+.mtl, .mvl, .mal {
+  margin-top: 20px !important;
+}
+
+.mtxl, .mvxl, .maxl {
+  margin-top: 30px !important;
+}
+
+.mrn, .mhn, .man {
+  margin-right: 0px !important;
+}
+
+.mrs, .mhs, .mas {
+  margin-right: 5px !important;
+}
+
+.mrm, .mhm, .mam {
+  margin-right: 10px !important;
+}
+
+.mrml, .mhml, .maml {
+  margin-right: 15px !important;
+}
+
+.mrl, .mhl, .mal {
+  margin-right: 20px !important;
+}
+
+.mrxl, .mhxl, .maxl {
+  margin-right: 30px !important;
+}
+
+.mrvl {
+  margin-right: 40px !important;
+}
+
+.mbn, .mvn, .man {
+  margin-bottom: 0px !important;
+}
+
+.mbs, .mvs, .mas {
+  margin-bottom: 5px !important;
+}
+
+.mbm, .mvm, .mam {
+  margin-bottom: 10px !important;
+}
+
+.mbml, .mvml, .maml {
+  margin-bottom: 15px !important;
+}
+
+.mbl, .mvl, .mal {
+  margin-bottom: 20px !important;
+}
+
+.mbxl, .mvxl, .maxl {
+  margin-bottom: 30px !important;
+}
+
+.mln, .mhn, .man {
+  margin-left: 0px !important;
+}
+
+.mls, .mhs, .mas {
+  margin-left: 5px !important;
+}
+
+.mlm, .mhm, .mam {
+  margin-left: 10px !important;
+}
+
+.mlml, .mhml, .maml {
+  margin-left: 15px !important;
+}
+
+.mll, .mhl, .mal {
+  margin-left: 20px !important;
+}
+
+.mlxl, .mhxl, .maxl {
+  margin-left: 30px !important;
+}
+
+.pvvl {
+  padding: 40px !important;
+}
+
+.mvvl {
+  margin: 40px !important;
+}
